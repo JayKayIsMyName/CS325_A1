@@ -8,4 +8,8 @@ print("Calculating sum...")
 
 time.sleep(3)
 
+print("Taking longer than expected, please be patient...")
+
+time.sleep(7)
+
 print("Hello world!")
